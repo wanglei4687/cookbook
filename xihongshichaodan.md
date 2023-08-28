@@ -6,7 +6,7 @@ https://www.bilibili.com/video/BV15P4y1F74j/?spm_id_from=333.337.search-card.all
 
 ###  准备
 
-1. 西红柿且中小块
+1. 西红柿切中小块
 2. 大葱，小葱切末
 3. 打鸡蛋
 
