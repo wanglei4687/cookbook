@@ -6,3 +6,4 @@
 - [酸菜鱼](./suancaiyi.md)
 - [毛豆烧鸡](./maodoushaoji.md)
 - [酸辣土豆丝](./suanlatudousi.md)
+- [绿豆汤/豆浆](./ludoutangdoujiang.md)
